@@ -57,7 +57,7 @@ class App extends Component {
 
 								<h3 className="topp_overskrift">Konsulenter</h3>
 								<div className="container">
-									<a href="/7ver" className="panel">
+									<a href="/7ver" className="panel panel__consultant">
 										<h1>Syver Enstad</h1>
 										<p>
 											Full stack utvikler.
@@ -68,7 +68,7 @@ class App extends Component {
 									<span className="caretRight"/>
 								</span>
 									</a>
-									<a href="/2mas" className="panel">
+									<a href="/2mas" className="panel panel__consultant">
 										<h1>Thomas Flemming</h1>
 										<p>
 											Full stack konsulent.
