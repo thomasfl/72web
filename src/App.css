@@ -71,6 +71,10 @@ svg {
   .content h1 {
     font-size: 1em; }
 
+.content__column {
+  display: inline-block;
+  max-width: 1000px; }
+
 .topp_overskrift {
   font-family: "Lora", serif;
   font-weight: bold;
